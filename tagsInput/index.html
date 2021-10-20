@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <title>tags HTML5</title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <form>
+
+        <!-- Associar label com os elementos - Boa prática -->
+        <!-- esse 'for' associa o label ao input. quando clicado
+        no label, automaticamente vai para o input-->
+        <label for="nome">Nome</label>
+        <input type="text" id="nome" placeholder="you name" required autofocus>
+        <br><br>
+
+        <!-- Novos inputs e atributos HTML5 -->
+
+        <!-- Email -->
+        <label for="email">Email</label>
+        <input type="email" id="email" placeholder="fulado@fulano..." required>
+        <br><br>
+
+        <!-- Número -->
+        <label for="numero">Número</label>
+        <input type="number" id="numero" min="0" max="10" step="2" required>
+        <br><br>
+
+        <!-- URL -->
+        <label for="url">URL</label>
+        <input type="url" id="url" placeholder="http://www." required>
+        <br><br>
+
+        <!-- Pesquisar -->
+        <label for="pesquisa">Pesquisar</label>
+        <input type="search" id="pesquisa" placeholder="digite algo...">
+        <br><br>
+
+        <!-- Range -->
+        <label for="range">Range</label>
+        <input type="range" id="range" min="0" max="100" value="10">
+        <br><br>
+
+        <!-- Data -->
+        <label for="data">Data</label>
+        <input type="date" id="data" required>
+        <br><br>
+
+        <!-- Cor -->
+        <label for="cor">Cor</label>
+        <input type="color" id="cor">
+        <br><br>
+
+        <input type="submit" value="enviar">
+    </form>
+</body>
+
+</html>
