@@ -25,10 +25,12 @@ body {
 }
 
 #logo {
+	font-size: 35px;
 	float: left;
 }
 
 #menu {
+	font-size: 20px;
 	float: right;
 	padding: 10px 0;
 }
@@ -99,7 +101,7 @@ img{
 	display: block;
 }
 
-.postagem span{
+.postagem footer{
 	border-left: 5px solid #d8d8d8;
 	padding-left: 5px;
 	display: block; /*pq ele é inline e acompanhar o fluxo dos elementos*/
