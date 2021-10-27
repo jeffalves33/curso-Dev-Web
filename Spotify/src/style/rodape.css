@@ -1,0 +1,31 @@
+footer{
+    position: relative;
+    background: black;
+    padding: 50px 0 20px 0;
+    height: 50vh;
+}
+
+.titlesFooter{
+    color:rgb(107, 107, 107);
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.linkFooter{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    font-weight: 700;
+}.linkFooter:hover{
+    color:#9bf0e1;
+}
+
+.linkFooter p{
+    margin-right: 40px;
+}
+
+#imagesFooter{
+    float: right;
+}#imagesFooter li{
+    margin: 0 10px 0 10px;
+}

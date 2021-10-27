@@ -1,0 +1,26 @@
+#recursos{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: calc(100vh - 80px);
+}
+
+.rotacionar{
+    padding-left: 80px;
+}
+
+
+/* ================= left part ================ */
+
+
+.titles2{
+    font-size: 40px;
+    font-weight: 900;
+    color: #9bf0e1;
+}#titles2{
+    font-size: 50px;
+    font-weight: 900;
+    color: white;
+}
+.paragrafos3{
+    color:white;
+}

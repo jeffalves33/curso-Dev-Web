@@ -1,0 +1,30 @@
+
+#servicos{
+    background-color: white;
+    height: calc(100vh - 80px);
+}
+.container{
+    height: 100%;
+    padding: 0;
+}
+
+#rowFigures{
+    height: 100%;
+    padding: 20px 0;
+}
+
+/* ==================== left part ================== */
+.albuns{
+    padding: 10px 0;
+}
+
+/* ==================== right part ================== */
+.titles{
+    font-size: 40px;
+    font-weight: 900;
+    color: #7E3BFC;
+}#titles{
+    font-size: 42px;
+    font-weight: 950;
+    color: #7E3BFC;
+}

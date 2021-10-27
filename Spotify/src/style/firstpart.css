@@ -1,0 +1,69 @@
+#firstpart{
+    display: table;/*centralizar verticalmente*/
+    width: 100%;
+    height: 100vh;
+    
+}
+#texto-capa{
+    text-align: center;/*centralizar horizontalmente*/
+    display: table-cell;/*centralizar verticalmente*/
+    vertical-align: middle;/*centralizar verticalmente*/
+    color: white;
+}
+
+/* ====================== Botoes ======================== */
+.btn-custom{
+    color: white;
+    border-radius: 500px;
+    /*para que funcione corretamente em outros browsers*/
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    padding: 10px 35px;
+    margin: 0 15px;
+    text-transform: uppercase;
+    font-size: 20px;
+    transition: background 0.4s, color 0.4;
+}
+
+.btn-roxo{
+    background: #7c25f8;
+}.btn-roxo:hover{
+    background: #6207e3;
+    color: white;
+}
+
+.btn-branco{
+    border: 2px solid white;
+}.btn-branco:hover{
+    background: #fff;
+}
+
+
+
+/* ======================= Tipografia ================== */
+h1{
+    font-size: 110px;
+    font-weight: 900;
+    letter-spacing: -0.05em; /*espaçamento das letras*/
+    margin-bottom: 50px;
+}
+
+
+@media (max-width: 900px){
+    h1{
+        font-size: 80px;
+    }
+    .btn-custom{
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 650px){
+    h1{
+        font-size: 60px;
+    }
+    .btn-custom{
+        font-size: 15px;
+        margin-top: 20px;
+    }
+}

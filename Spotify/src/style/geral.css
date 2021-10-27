@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden; /*REMOVE BARRA HORIZONTAL*/
+
+}
+/*colocar html para que o body seja realmente 100%. caso contrário, ele
+seguirá o tamanho do html*/
+html, body{
+    /* background: url('/img/capa.png') no-repeat; */
+    background: url('/img/capa.png'),
+                url('/img/ruido.png'),
+                linear-gradient(50deg,#ff4169,#7c26f8);
+    background-attachment: fixed;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.navbar{
+    padding: 0;
+    height: 80px;
+}

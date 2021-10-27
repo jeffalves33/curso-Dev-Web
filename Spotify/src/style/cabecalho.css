@@ -1,0 +1,69 @@
+header{
+    background-color: rgba(0, 0, 0, 0.582);
+    position: fixed;
+    width: 100vw;
+    
+}
+div .navbar-collapse{
+    position:absolute;
+    right: 50px;
+}
+
+.nav-link{
+    margin-right: 10px;
+}
+
+
+nav .container-fluid{
+    margin-left: 50px;
+}
+.navbar-brand{
+    padding-top: 20px;
+}
+
+.border-start{
+    margin-right: 25px;
+}
+b{
+    font-size: 16px;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}.negrito:hover{
+    color: #9bf0e1;
+}
+
+
+/*======================== button ================== */
+button, span{
+    background-color: white;
+    color: white;
+}
+
+@media (max-width: 993px){
+    #navbarNavAltMarkup{
+        background-color: rgba(0, 0, 0, 0.897);
+        padding: 0;
+        position: fixed;
+        top: 80px;
+        right: 1px;
+        border-radius: 10px;
+        transition: all 0.1s;
+    }
+    .border-start{display: none;}
+    .navbar-nav{
+        width: 300px;
+        /*display: table-cell;
+        float:right;
+        */
+    }.nav-link{
+        width: 100%;
+        margin: 10px 0 10px 0;
+    }
+    .negrito{
+        text-align: center;
+        width: 100%;
+        float: right;
+        font-size: 30px;
+    }
+}
