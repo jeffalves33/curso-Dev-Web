@@ -40,7 +40,7 @@ function iniciaJogo2(){
     document.getElementById('cronometro').innerHTML = time;
 
     //quantidade de balões
-    var qtdBaloes = 10;
+    var qtdBaloes = 120;
     criaBaloes(qtdBaloes);
 
     //imprime qtd baloes inteiros e estourados
