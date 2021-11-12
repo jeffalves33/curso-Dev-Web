@@ -10,8 +10,8 @@ body{
 seguirá o tamanho do html*/
 html, body{
     /* background: url('/img/capa.png') no-repeat; */
-    background: url('img/capa.png'),
-                url('img/ruido.png'),
+    background: url(https://raw.githubusercontent.com/jeffalves33/curso-Dev-Web/main/Spotify/img/capa.png),
+                url(https://raw.githubusercontent.com/jeffalves33/curso-Dev-Web/main/Spotify/img/ruido.png),
                 linear-gradient(50deg,#ff4169,#7c26f8);
     background-attachment: fixed;
     font-family: Helvetica, Arial, sans-serif;

@@ -18,16 +18,11 @@ Route::get('/', function () {
 });
 
 
-/*o obj Route é quem cuida a parte de roteamente de toda aplicação.
- e nós definimos as rotas e os métodos atráves do método http:
- get
- post
- put
- patch
- delete
- options
-*/
  
 Route::get('/formulario', function(){
     return view('formulario');
+});
+
+Route::get('/resultado', function(){
+    return view('resultado');
 });
