@@ -17,7 +17,7 @@ Todos já passamos (talvez ainda...) pela procura de vagas na internet. As vezes
 - [O que o repositório oferece](#o-que-oferece)
 - [Bugs](#bugs)
 - [Argumentação](#argumentacao)
-
+- [Próximas Atualizações](#proximas-atualizações)
 
 
 ## Tecnologias
@@ -75,3 +75,8 @@ Se houver problemas de bug ou compatibilidade, entre em contato com o administra
 Esse é um projeto de nível iniciante e básico. Não se detenha a documentação, aplicação, designer e afins, pois estamos, assim como você, em progresso e logo essa aplicação se tornará um legítimo e respeitado buscador de vagas!
 
 
+## Próximas Atualizações
+
+* deixar o site no ar e hospedado; 
+* melhorar a experiência do usuário;
+* aprimorar para leitores de tela;
