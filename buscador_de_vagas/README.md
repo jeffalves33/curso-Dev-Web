@@ -7,20 +7,20 @@
 
 ## Job Finder 1.0
 
-Todos já passamos (talvez ainda...) pela procura de vagas na internet. As vezes encontrar aquela vaga querida se torne um trabalho árduo... Felizmente trouxemos a solução: `um buscador de vagas`.
+Todos já passamos (talvez ainda...) pela procura de vagas na internet. As vezes encontrar aquela vaga sonhada se torne um trabalho árduo... Felizmente trouxemos a solução: `um buscador de vagas`.
 
-## Ínice
+## Index
 
-- [Tecnologias](#tecnologias)
-- [Começo rápido](#comeco-rapido)
-- [Status](#status)
-- [O que o repositório oferece](#o-que-oferece)
+- [Technologies](#Technologies)
+- [Quick Start](#Quick-Start)
+- [Status](#Status)
+- [What the repository offers](#What-the-repository-offers)
 - [Bugs](#bugs)
-- [Argumentação](#argumentacao)
-- [Próximas Atualizações](#proximas-atualizações)
+- [Argumentation](#Argumentation)
+- [Upcoming Updates](#Upcoming-Updates)
 
 
-## Tecnologias
+## Technologies
 
 <div class="main">
     <a href="#">
@@ -47,9 +47,9 @@ Todos já passamos (talvez ainda...) pela procura de vagas na internet. As vezes
 </div>
 
 
-## Começo rápido
+## Quick Start
 
-Tenha em mente que para que para que consiga executar essa aplicação e seu banco de dados, necessariamente precisará starta-la em sua máquina já que o GitHub não suportaria tal aplicação ou não seria viavel.
+Tenha em mente que para conseguir executar essa aplicação e seu banco de dados, necessariamente precisará starta-la em sua máquina já que o GitHub não suportaria tal aplicação ou não seria viavel.
 
 Desta forma, pode iniciar seu projeto da seguinte forma:
 
@@ -60,9 +60,9 @@ Desta forma, pode iniciar seu projeto da seguinte forma:
 - aprecie!
 
 
-## O que o repositório oferece
+## What the repository offers
 
-Nesse repositório (pasta) você terá toda a aplicação. Não necessário o uso de qualquer software para rotas ou banco de dados como por exemplo: Postman e DB Browser, respectivamente.
+Nesse repositório (pasta) você terá toda a aplicação. Não necessário o uso de qualquer software para rotas ou banco de dados como por exemplo: Postman e DB Browser (SQLite), respectivamente.
 
 
 ## Bugs
@@ -70,12 +70,12 @@ Nesse repositório (pasta) você terá toda a aplicação. Não necessário o us
 Se houver problemas de bug ou compatibilidade, entre em contato com o administrador/desenvolvedor do site, [Jeferson Alves](https://jeffalves33.github.io/jeffalves33/), eu.
 
 
-## Argumentação
+## Argumentation
 
 Esse é um projeto de nível iniciante e básico. Não se detenha a documentação, aplicação, designer e afins, pois estamos, assim como você, em progresso e logo essa aplicação se tornará um legítimo e respeitado buscador de vagas!
 
 
-## Próximas Atualizações
+## Upcoming Updates
 
 * deixar o site no ar e hospedado; 
 * melhorar a experiência do usuário;
